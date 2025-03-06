@@ -10,7 +10,7 @@ A program that determines if two strings are anagrams of each other.
 ## Getting Started
 
 ### Prerequisites
-- .NET 8.0 SDK or later
+- .NET 10.0 SDK or later
 - Any of the following IDEs:
   - Visual Studio 2022
   - Visual Studio Code with C# extension
