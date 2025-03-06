@@ -24,6 +24,15 @@ bld/
 # Visual Studio Code
 .vscode/
 
+# Rider
+.idea/
+*.sln.iml
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json

@@ -11,7 +11,10 @@ A program that determines if two strings are anagrams of each other.
 
 ### Prerequisites
 - .NET 8.0 SDK or later
-- Visual Studio 2022 or Visual Studio Code with C# extension
+- Any of the following IDEs:
+  - Visual Studio 2022
+  - Visual Studio Code with C# extension
+  - JetBrains Rider
 
 ### Building and Running
 
@@ -20,6 +23,9 @@ Each project can be built and run independently using the following commands:
 ```bash
 # Navigate to the project directory
 cd ProjectName
+
+# Restore dependencies
+dotnet restore
 
 # Build the project
 dotnet build
